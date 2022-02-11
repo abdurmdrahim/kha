@@ -1,0 +1,19 @@
+
+*{
+    text-align: center;
+    margin: auto;
+    padding: 0%;
+}
+.main{
+    width:500px; height: 500px;
+    background-color: rebeccapurple;box-shadow: 10px 5px red}
+
+.header{width:500px; height:50px;background-color:red ; margin-top: 10px; box-shadow:   5px 8px    turquoise;}
+
+.a{
+    padding: 10px; color:blueviolet; font-style: italic;
+    background-color: rgb(54, 3, 3);
+    margin-top: 15px ; display: inline-block; box-shadow: 10px 8px .50 rgb(54, 33, 3);
+    text-decoration: none;
+}
+.a:hover{background-color: orangered; cursor: pointer; transition:.20s}
